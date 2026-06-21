@@ -108,7 +108,7 @@ learning = {
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/vishwadev-gupta-323353201/
+💼 LinkedIn: https://www.linkedin.com/in/vishwadevgupta/
 
 💻 GitHub: https://github.com/Vishwadev05819
 
